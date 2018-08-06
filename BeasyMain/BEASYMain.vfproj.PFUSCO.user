@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualStudioUserFile ProjectCreator="Intel Fortran" Keyword="Console Application" Version="11.0" ProjectIdGuid="{E59BD352-A5F8-4F1A-B13C-6384CEB50D01}">
+	<Configurations>
+		<Configuration Name="Debug|Win32" CommandArguments="-pf=&quot;C:\Users\PFUSCO\Desktop\Fortran\BEASYMain\BEASYMain\BEASYMain\params.dat&quot; -bf=&quot;C:\Users\PFUSCO\Desktop\Fortran\BEASYMain\BEASYMain\BEASYMain\batchFile.dat&quot;"/>
+		<Configuration Name="Release|Win32"/>
+		<Configuration Name="Debug|x64" CommandArguments="-pf=C:\Users\PFUSCO\Desktop\BEASYMain\BEASYMain\BEASYMain\params.dat -bf=C:\Users\PFUSCO\Desktop\BEASYMain\BEASYMain\BEASYMain\batchFile.dat"/>
+		<Configuration Name="Release|x64" CommandArguments="-pf=C:\Users\PFUSCO\Desktop\BEASYMain\BEASYMain\BEASYMain\params.dat -bf=C:\Users\PFUSCO\Desktop\BEASYMain\BEASYMain\BEASYMain\batchFile.dat"/></Configurations></VisualStudioUserFile>
